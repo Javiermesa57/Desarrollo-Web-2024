@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+	text-align: Center;
+}
+
+header {
+    background-color: #333;
+    padding: 10px 0;
+}
+H1 {
+	text-align: Center;
+	color: #FAED26;
+	background-color: #212121;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	
+}
+
+nav ul li {
+    display: inline;
+	
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+	
+}
+
+nav ul li a:hover {
+    background-color: #FAED26;
+	color: #212121;
+}
+.Productos {
+	border: 1px solid #666;
+	margin: 1em;
+	background-color: #333;
+	padding: 4em;
+	height: 10em;
+	width: 20%;
+	text-align: center;
+	color: #FAFAFA;
+	float: left
+	
+
+	
+	
+}
+	
+.Productos:hover {
+	background-color: #FAED26;
+	color: #212121;
+	
+}
+.contactos {
+	border: 1px solid #666;
+	text-align: center;
+	clear: both; 
+	background-color: #333;
+	color: #FAED26;
+	
+	
+}
+.mi-boton {
+	color: #FAED26;
+	background-color: #5f6366;
+	height: 4em;
+	width: 14em;
+}
+.mi-boton:hover {
+    background-color: #212121; 
+}
+.mision {
+	
+}
+.pantalones {
+	border: 1px solid #666;
+	margin: 1em;
+	background-color: #333;
+	padding: 4em;
+	height: 10em;
+	width: 20%;
+	text-align: center;
+	color: #FAFAFA;
+	float: left
+	
+
+	
+	
+}
+.pantalones:hover {
+	background-color: #FAED26;
+	color: #212121;
+	
+}
